@@ -40,6 +40,11 @@ Documentation for CLIMADA is available on Read the Docs:
 * [online (recommended)](https://climada-python.readthedocs.io/en/stable/)
 * [PDF file](https://buildmedia.readthedocs.org/media/pdf/climada-python/stable/climada-python.pdf)
 
+## License
+Copyright (C) 2024 ETH Zurich.
+
+Severino, L. G., Kropf, C. M., Afargan-Gerstman, H., Fairless, C., de Vries, A. J., Domeisen, D. I. V., and Bresch, D. N.: Projections and uncertainties of winter windstorm damage in Europe in a changing climate, Nat. Hazards Earth Syst. Sci., 24, 1555–1578, https://doi.org/10.5194/nhess-24-1555-2024, 2024. 
+
 -----
 ## History
 created 28 March 2024
